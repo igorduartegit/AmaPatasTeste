@@ -1,0 +1,99 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+	font-family: Inter, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	height: 600px;
+}
+.main1{
+	height: 700px;
+}
+.area-registro{
+	width: 700px;
+	height: 300px;
+	text-align: center;
+	align-items: center;
+	margin: auto;
+	padding-top: 150px;
+}
+
+.formulario{
+	margin: 30px 182px;
+}
+
+h2{
+	color:hsl(0, 0%, 0%);
+	margin-bottom: 10px;
+	font-family: "Lobster Two","lobster";
+}
+h1{
+	color: hsl(0, 100%, 61%);
+	margin-bottom: 10px;
+	font-size: 50px;
+	font-family: "Lobster Two","lobster";
+}
+#link-texto{
+	color: hsl(347, 100%, 73%);
+}
+.Botao1 {
+	text-decoration: none;
+	background-color:hsl(347, 100%, 73%);
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	border: 0;
+	cursor: pointer;
+}
+
+.Botao2 {
+	text-decoration: none;
+	background-color: hsl(347, 100%, 73%);
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size:1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+}
+
+.Caixa1 {
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 2px solid hsl(347, 100%, 73%);
+	border-radius: 5px;
+}
+
+.Caixa2 {
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 2px solid hsl(347, 100%, 73%);
+	border-radius: 5px;
+}
+
+#caixa3 {
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid hsl(347, 100%, 73%);
+}
+
+#tabela {
+	margin-top: 30px;
+	border-collapse: collapse;
+}
+
+#tabela th {
+	border: 1px solid #ddd;
+	padding: 10px;
+	text-align: Left;
+	background-color: hsl(347, 100%, 73%);
+	color: #fff;
+}
+
+#tabela td {
+	border: 1px solid #ddd;
+	padding: 10px;
+}

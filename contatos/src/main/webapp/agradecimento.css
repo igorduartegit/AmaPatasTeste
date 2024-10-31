@@ -1,0 +1,13 @@
+
+.sei-la{
+    height: 100%;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+#titulo-obrigado{
+    font-family: "Lobster two", "Lobster";
+    font-size: 70px;
+	color: hsl(0, 77%, 58%);
+    margin-bottom: 20px;
+}

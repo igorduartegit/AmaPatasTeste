@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+#titulo-login{
+	color: hsl(0, 100%, 61%);
+	font-size: 60px;
+	font-family: "Lobster Two", "lobster";
+	margin-bottom: 20px;
+}
+body {
+	width: 100%;
+	height: 100%;
+}
+
+form {
+	width: 300px;
+	margin-inline: auto;
+	padding-block: 200px;
+	text-align: center;
+}
+
+input {
+	display: block;
+	margin: 10px auto;
+	width: 250px;
+	height: 30px;
+}

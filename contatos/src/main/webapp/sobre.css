@@ -1,0 +1,25 @@
+.section-historia{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+#titulo-historia{
+    font-size: 70px;
+    font-family: "Lobster Two", "lobster";
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#titulo-historia span{
+    font-family: "Lobster Two","lobster";
+    color:  hsl(0, 100%, 61%);
+}
+
+.espaco-historia{
+    margin-inline: 50px;
+}
+.container-historia{
+    background-color: rgb(255, 202, 202);
+	border-block: 5px dashed rgb(255, 109, 133);
+    padding-block: 50px;
+}
